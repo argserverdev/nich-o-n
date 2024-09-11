@@ -1,0 +1,7 @@
+
+
+
+export * from './enterprise-architecture.response';
+export * from './orthography.response';
+export * from './pros-cons.response';
+export * from './translate.response';
